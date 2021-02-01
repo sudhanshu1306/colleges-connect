@@ -1,0 +1,115 @@
+body{
+  background-image: url("image.jpg");
+
+}
+
+.content{
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  margin-left: 45%;
+  margin-top: 5%;
+  width: 40%;
+  padding: 20px;
+}
+.img{
+  width: 50%;
+  height: 50%;
+  border-radius: 40%;
+}
+
+
+
+.d-flex {
+  border:2px solid #000;
+}
+.d-flex picture {
+  width:300px;
+  flex: auto;
+  cursor:pointer;
+  border:2px solid #000;
+
+}
+
+.messageImg{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 992px) {
+  .w-lg-50 {width:50%!important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+####################################################
+M E D I A  Q U E R I E S
+####################################################
+*/
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Bootstrap 4 breakpoints
+*/
+
+/*
+Extra small devices (portrait phones, less than 544px)
+No media query since this is the default in Bootstrap because it is "mobile first"
+*/
+
+
+/* Small devices (landscape phones, 544px and up) */
+@media (min-width: 544px) {
+
+}
+
+/* Medium devices (tablets, 768px and up)
+The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Custom media queries
+*/
+
+@media (max-width: 950px) {
+
+}
