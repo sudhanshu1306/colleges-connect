@@ -1,0 +1,44 @@
+.linkdiv{
+      width: 20vw;
+      background-color: #eee;
+      text-align: center;
+      height: 7vh;
+      border-radius: 0 35% 35% 0;
+
+       font-size: 4vh;
+       margin-top: 5%;
+       position: sticky;
+  }
+
+.linkdiv:hover{
+      cursor: pointer;
+      background-color: black;
+      color: white;
+      box-shadow: 0 6px 20px rgba(44, 47, 54, 0.048);
+      -webkit-filter: drop-shadow(0 6px 20px rgba(38, 40, 43, 0.017));
+      filter: drop-shadow(0 6px 20px rgba(68, 68, 70, 0.017));
+  }
+.active{
+    background-color: black;
+    color: white;
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+}
+.sidenav{
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    border-radius: 0 10% 10% 0;
+    width: 22vw;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+    position: fixed;
+}
+
+.rightdiv{
+    float: right;
+    width: 70%;
+    margin-top: 5%;
+}

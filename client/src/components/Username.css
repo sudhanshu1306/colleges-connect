@@ -1,0 +1,25 @@
+.msgpic{
+    border-radius: 50%;
+    height: 9vh;
+    width: 9vh;
+    float: left;
+    margin: 2%;
+    margin-right: 4%;
+    
+}
+
+.name{
+    float: left;
+    border-radius: 20%;
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+  -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+  filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+  font-size: 3vh;
+  display: table-cell; vertical-align: middle;
+  margin-top: 5%;
+  margin-left: 2%;
+  padding-right: 2%;
+  width: 100%;
+  /* vertical-align: middle; */
+  line-height: 400%;
+}

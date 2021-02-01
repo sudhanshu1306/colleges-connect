@@ -1,0 +1,11 @@
+.postdiv{
+   padding: 2%;
+}
+
+.post-img{
+border-radius: 2%;
+}
+
+.fa-heart:hover {
+    transform: scale(1.1);
+}

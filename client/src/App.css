@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.newssection{
+  width: 45%;
+  position: absolute;
+  top: 12%;
+  left: 50%;
+}
+
+.postsection{
+  width: 45%;
+ 
+}
+
+.newshead{
+  text-align: center;
+  margin-top: 8%;
+}
+
+/* .newdfeed{
+  width: ;
+} */

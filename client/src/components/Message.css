@@ -1,0 +1,22 @@
+.msgpic{
+    border-radius: 50%;
+    height: 8%;
+    width: 8%;
+    float: left;
+}
+
+.msgtext{
+    /* float: left; */
+    border-radius: 25%;
+    padding: 1%;
+    margin-left: 2%;
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+  -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+  filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+}
+
+.msg{
+
+    margin-top: 2%;
+    margin-left: 2%;
+}

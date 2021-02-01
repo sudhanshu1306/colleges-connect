@@ -1,0 +1,23 @@
+.picmsg{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    float: left;
+}
+
+.textmsg{
+    background-color: white;
+    float: left;
+    border-radius: 25%;
+    padding: 1%;
+    margin-left: 1%;
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+  -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+  filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+}
+
+.divmsg{
+
+    margin-top: 5%;
+    margin-left: 2%;
+}

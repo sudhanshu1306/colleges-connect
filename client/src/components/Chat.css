@@ -1,0 +1,73 @@
+.usernames{
+    float: left;
+    width: 25vw;
+
+}
+
+.chatdiv{
+    width: 70vw;
+    float: right;
+   /* background-color: black; */
+   height: 85vh;
+}
+
+.chatbox{
+    width: 70%;
+    height: 90%;
+    margin: auto;
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    /* border-radius: 10%; */
+    background-color: white;
+    margin-top: 3%;
+    margin-bottom: 3%;
+
+    position: fixed;
+    top:3%;
+    right: 1%;
+    bottom: 2%;
+}
+
+.left{
+margin-top: 1%;
+margin-left: 2%;
+}
+.right{
+    float: right;
+    margin-top: 5%;
+    /* margin-right: 2%; */
+}
+.chat{
+    width: 90%;
+    height: 80%;
+    /* background-color: blue; */
+    margin: 2%;
+    padding: 1%;
+    overflow-y: auto;
+}
+.type{
+    width: 95%;
+    height: 10%;
+
+    margin: 2%;
+    /* border-radius: 20%; */
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+}
+/* .typemsg{
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    height: 80%;
+    width: 80%;
+    background-color: #F5F5F5;
+    margin-top: 1%;
+} */
+
+.typemsg{
+    width: 95%;
+    margin: 1%;
+    height: 70%;
+}
